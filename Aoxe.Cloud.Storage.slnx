@@ -2,7 +2,6 @@
   <Folder Name="/demo/" />
   <Folder Name="/src/" />
   <Folder Name="/src/AWS/">
-    <Project Path="src\AWS\Aoxe.AWS.EBS\Aoxe.AWS.EBS.csproj" Type="Classic C#" />
     <Project Path="src\AWS\Aoxe.AWS.ElasticFileSystem\Aoxe.AWS.ElasticFileSystem.csproj" Type="Classic C#" />
     <Project Path="src\AWS\Aoxe.AWS.S3\Aoxe.AWS.S3.csproj" Type="Classic C#" />
   </Folder>
