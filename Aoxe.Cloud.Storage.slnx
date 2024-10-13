@@ -10,6 +10,7 @@
     <Project Path="src\Azure\Aoxe.Azure.Files\Aoxe.Azure.Files.csproj" Type="Classic C#" />
   </Folder>
   <Folder Name="/src/GCP/">
+    <Project Path="src\Aoxe.GCP.Filestore\Aoxe.GCP.Filestore.csproj" Type="Classic C#" />
     <Project Path="src\GCP\Aoxe.GCP.Storage\Aoxe.GCP.Storage.csproj" Type="Classic C#" />
   </Folder>
   <Folder Name="/tests/" />
