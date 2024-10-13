@@ -1,0 +1,17 @@
+﻿<Solution>
+  <Folder Name="/demo/" />
+  <Folder Name="/src/" />
+  <Folder Name="/src/AWS/">
+    <Project Path="src\AWS\Aoxe.AWS.EBS\Aoxe.AWS.EBS.csproj" Type="Classic C#" />
+    <Project Path="src\AWS\Aoxe.AWS.ElasticFileSystem\Aoxe.AWS.ElasticFileSystem.csproj" Type="Classic C#" />
+    <Project Path="src\AWS\Aoxe.AWS.S3\Aoxe.AWS.S3.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/src/Azure/">
+    <Project Path="src\Azure\Aoxe.Azure.Blobs\Aoxe.Azure.Blobs.csproj" Type="Classic C#" />
+    <Project Path="src\Azure\Aoxe.Azure.Files\Aoxe.Azure.Files.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/src/GCP/">
+    <Project Path="src\GCP\Aoxe.GCP.Storage\Aoxe.GCP.Storage.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
